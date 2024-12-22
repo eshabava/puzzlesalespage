@@ -19,7 +19,7 @@ export default function Navbar() {
               Login
             </Link>
             <Link 
-              href="https://amz-kappa.vercel.app/register" 
+              href="https://amz-kappa.vercel.app" 
               className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700"
             >
               Get Started
