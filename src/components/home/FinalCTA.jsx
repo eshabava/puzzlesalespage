@@ -8,7 +8,7 @@ export default function FinalCTA() {
           Ready to Start Creating Your Word Search Puzzle Books?
         </h2>
         <Link 
-          href="https://amz-kappa.vercel.app/register"
+          href="https://amz-kappa.vercel.app/"
           className="inline-block bg-white text-blue-600 px-8 py-4 rounded-full text-xl font-semibold hover:bg-gray-100 transition-colors"
         >
           Get Started Now
