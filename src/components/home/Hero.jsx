@@ -20,7 +20,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
             <Link 
-              href="https://amz-kappa.vercel.app" 
+              href="https://warriorplus.com/o2/buy/xzp148/k2fb2h/zmnfrg" 
               className="inline-flex items-center px-8 py-4 rounded-full text-lg font-semibold bg-blue-600 text-white hover:bg-blue-700 transition-colors duration-200"
             >
               Start Creating
