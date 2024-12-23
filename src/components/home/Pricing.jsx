@@ -43,7 +43,7 @@ export default function Pricing() {
           </ul>
 
           <Link 
-            href="https://amz-kappa.vercel.app/register"
+            href="https://warriorplus.com/o2/buy/xzp148/k2fb2h/zmnfrg"
             className="w-full inline-block py-4 px-8 bg-green-600 text-white rounded-full text-lg font-semibold hover:bg-green-700 transition-colors text-center"
           >
             Get Started for Just $4.7/month
