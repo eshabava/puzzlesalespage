@@ -13,7 +13,7 @@ export default function Navbar() {
           </div>
           <div className="flex space-x-4">
             <Link 
-              href="https://amz-kappa.vercel.app" 
+              href="https://warriorplus.com/o2/buy/xzp148/k2fb2h/zmnfrg" 
               className="text-gray-600 hover:text-gray-900"
             >
               Login
