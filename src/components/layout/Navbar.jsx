@@ -13,13 +13,13 @@ export default function Navbar() {
           </div>
           <div className="flex space-x-4">
             <Link 
-              href="https://warriorplus.com/o2/buy/xzp148/k2fb2h/zmnfrg" 
+              href="https://www.wordsearchgenerator.pro" 
               className="text-gray-600 hover:text-gray-900"
             >
               Login
             </Link>
             <Link 
-              href="https://amz-kappa.vercel.app" 
+              href="https://warriorplus.com/o2/buy/xzp148/k2fb2h/zmnfrg" 
               className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700"
             >
               Get Started
