@@ -27,8 +27,8 @@ export default function Pricing() {
             <h3 className="text-3xl font-bold mb-4">Complete Package</h3>
             <div className="mb-4">
               <span className="text-5xl font-bold text-green-600">${plans.monthly.standard.price}</span>
-              <span className="text-lg text-gray-600">/month</span>
-              <span className="text-2xl line-through text-gray-400 ml-2">${plans.monthly.standard.originalPrice}/mo</span>
+              <span className="text-lg text-gray-600">one-time</span>
+              <span className="text-2xl line-through text-gray-400 ml-2">${plans.monthly.standard.originalPrice}</span>
             </div>
             <p className="text-gray-600 mb-8">90% Off - Limited Time Offer!</p>
           </div>
@@ -43,17 +43,17 @@ export default function Pricing() {
           </ul>
 
           <Link 
-            href="https://warriorplus.com/o2/buy/xzp148/k2fb2h/zmnfrg"
+            href="https://amz-kappa.vercel.app/register"
             className="w-full inline-block py-4 px-8 bg-green-600 text-white rounded-full text-lg font-semibold hover:bg-green-700 transition-colors text-center"
           >
-            Get Started for Just $4.7/month
+            Get Started for Just $9 - One Time Payment
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 ml-2 inline" viewBox="0 0 20 20" fill="currentColor">
               <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" />
             </svg>
           </Link>
           
           <p className="text-center text-sm text-gray-500 mt-4">
-            Lock in this special price now before it goes back to ${plans.monthly.standard.originalPrice}/month!
+            Lock in this special price now before it goes back to ${plans.monthly.standard.originalPrice}!
           </p>
         </div>
       </div>
