@@ -84,7 +84,7 @@ export default function ComingSoon() {
               className="w-full mt-8 py-4 px-8 bg-gray-100 text-gray-600 rounded-full text-lg font-semibold cursor-not-allowed opacity-75"
               disabled
             >
-              Coming Soon - Included With Your Subscription
+              Coming Soon
             </button>
           </div>
         </div>
