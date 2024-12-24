@@ -33,8 +33,8 @@ export default function Founders() {
           </p>
           
           <p>
-            <span className="font-semibold">P:P:P:S</span> Remember we are here to hold your hand and take you through the process so you don't get stuck. You're getting this for just $4.7/month, including all future upgrades and upcoming tools like Math Worksheet Generator, Coloring Word Search Puzzles Generator, and more at no extra cost. After the launch closes on the 25th of Dec, midnight EST the price of this offer would increase to $47/month.
-          </p>
+  <span className="font-semibold">P:P:P:S</span> Remember we are here to hold your hand and take you through the process so you don't get stuck. You're getting this for just a one-time payment of $9, including all future upgrades and upcoming tools like Math Worksheet Generator, Word Search Puzzles Generator, and more at no extra cost. After the launch closes on the 31st of Dec, midnight EST the price of this offer would increase to $90.
+</p>
         </div>
       </div>
     </section>
